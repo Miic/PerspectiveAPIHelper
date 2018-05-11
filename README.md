@@ -1,6 +1,6 @@
 # PerspectiveHelper
 
-The primary purpose of this Library class is to be a API class for accessing PerspectiveAPI
+An API class for accessing PerspectiveAPI in Java 8+
 
 To use:
   1) Use the Static Method, setKey(String) to set the internal key to the one provided by the Jigsaw team.
